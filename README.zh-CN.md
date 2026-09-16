@@ -21,6 +21,34 @@
     <a href="#supported-languages-zh-cn"><img src="https://img.shields.io/badge/多语言-12%20种语言-16a34a?style=flat-square&logo=googletranslate&logoColor=white" alt="查看支持的 12 种语言" /></a>
   </p>
 
+  <p><strong>推荐与收录平台</strong></p>
+
+  <p>
+    <a href="https://github.com/awesome-selfhosted/awesome-selfhosted#readme">
+      <img src="https://awesome.re/mentioned-badge-flat.svg" alt="已被 Awesome Self-Hosted 收录" />
+    </a>
+    <a href="https://coolify.io/docs/services/imgcompress?utm_source=github.com">
+      <img src="https://img.shields.io/badge/Coolify-Official%20Service-8b5cf6?style=flat-square&logoColor=white" alt="Coolify 官方服务" />
+    </a>
+    <a href="https://alternativeto.net/software/imgcompress/about">
+      <img src="https://img.shields.io/badge/AlternativeTo-Listed-1e40af?style=flat-square" alt="已被 AlternativeTo 收录" />
+    </a>
+    <a href="https://selfhostedworld.com/software/imgcompress">
+      <img src="https://img.shields.io/badge/SelfHostedWorld-Listed-1e40af?style=flat-square" alt="已被 SelfHostedWorld 收录" />
+    </a>
+    <a href="https://www.pitchhut.com/project/imgcompress-toolbox">
+      <img src="https://img.shields.io/badge/pitchhut-Listed-1e40af?style=flat-square" alt="已被 PitchHut 收录" />
+    </a>
+  </p>
+
+  <hr />
+
+  <p>
+    <a href="https://buymeacoffee.com/karimz1">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="请我喝杯咖啡" height="41" />
+    </a>
+  </p>
+
   <p>
     <a href="https://imgcompress.karimzouine.com/">网站</a> ·
     <a href="https://imgcompress.karimzouine.com/docs">文档</a> ·
