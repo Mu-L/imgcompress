@@ -22,7 +22,7 @@
     <a href="https://github.com/karimz1/imgcompress">
       <img src="https://img.shields.io/github/stars/karimz1/imgcompress?style=flat-square&color=f4d03f&label=Stars&logo=github&logoColor=black" alt="GitHub Stars" />
     </a>
-    <a href="./TRANSLATIONS.md">
+    <a href="#supported-languages">
       <img src="https://img.shields.io/badge/Multi--language-12%20locales-16a34a?style=flat-square&logo=googletranslate&logoColor=white" alt="Multi-language support: 12 locales" />
     </a>
   </p>
@@ -201,6 +201,8 @@ ImgCompress is built with a security-hardened, minimal image, aligned with commo
 </div>
 
 ---
+
+<a id="supported-languages"></a>
 
 ## Multilingual Support
 

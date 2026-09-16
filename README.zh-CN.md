@@ -18,7 +18,7 @@
   <p>
     <a href="https://hub.docker.com/r/karimz1/imgcompress"><img src="https://img.shields.io/docker/pulls/karimz1/imgcompress?style=flat-square&color=0db7ed&label=Docker%20Pulls&logo=docker&logoColor=white" alt="Docker 下载量" /></a>
     <a href="https://github.com/karimz1/imgcompress"><img src="https://img.shields.io/github/stars/karimz1/imgcompress?style=flat-square&color=f4d03f&label=Stars&logo=github&logoColor=black" alt="GitHub Star 数量" /></a>
-    <a href="./TRANSLATIONS.md"><img src="https://img.shields.io/badge/多语言-12%20种语言-16a34a?style=flat-square&logo=googletranslate&logoColor=white" alt="支持 12 种语言" /></a>
+    <a href="#supported-languages-zh-cn"><img src="https://img.shields.io/badge/多语言-12%20种语言-16a34a?style=flat-square&logo=googletranslate&logoColor=white" alt="查看支持的 12 种语言" /></a>
   </p>
 
   <p>
@@ -161,11 +161,26 @@ ImgCompress 使用经过安全加固的精简镜像，默认遵循常见的容�
 
 ---
 
+<a id="supported-languages-zh-cn"></a>
+
 ## 多语言支持
 
 ImgCompress 支持多种前端语言，也欢迎社区改进翻译。请参阅**[翻译贡献指南](TRANSLATIONS.md)**，添加新语言、改进现有翻译或获得贡献者署名。
 
-支持的语言：英语、西班牙语、墨西哥西班牙语、简体中文、印地语、阿拉伯语、法语、巴西葡萄牙语、俄语、日语、德语和匈牙利语。
+支持的语言：
+
+- 英语
+- 西班牙语
+- 墨西哥西班牙语
+- 简体中文
+- 印地语
+- 阿拉伯语
+- 法语
+- 巴西葡萄牙语
+- 俄语
+- 日语
+- 德语
+- 匈牙利语
 
 ---
 
