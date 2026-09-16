@@ -1,4 +1,6 @@
 <div align="center">
+  <p><strong>English</strong> | <a href="./README.zh-CN.md">简体中文</a></p>
+
   <img src="./images/logo-mini-2.webp" alt="ImgCompress logo" height="80px" />
   <h1>ImgCompress</h1>
   <p><strong>Every image format. Zero cloud.</strong></p>
